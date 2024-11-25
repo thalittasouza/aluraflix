@@ -5,3 +5,21 @@ margin:0px;
 font-family:"Chakra Petch",sans-serif;
 margin-bottom: 100px;
 }
+header{ 
+border-bottom:solid 2px rgb(42,122,228) ;
+padding:20px;
+font-size:32px;
+color:rbg(42,122,228);
+}
+.chamada { 
+background:rbg(184,156,213);
+padding-bottom:80px;
+padding:flex;
+justify-content:center;
+}
+.chamada{ 
+    margin-right:5%;
+}
+h1{ 
+font-size:40px;
+}
