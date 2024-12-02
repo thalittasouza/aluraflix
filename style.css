@@ -32,5 +32,18 @@ overflow-x:auto;
 gap:10PX;
 }
 .categoria{
-    
+padding-left:20px;
+padding-right:20px;
+margin-top:50px;
+}
+.categoria-videos{
+opacity:0.5;
+height:200px;
+ }
+.categoria-videos img:hover {
+opacity:1.0;
+border:3px solid green;
+}
+.categoria h2{
+color:rgb(42,122,228);
 }
